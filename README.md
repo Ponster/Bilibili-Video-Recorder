@@ -1,1 +1,11 @@
-# Bilibili-Video-Recorder
+# 功能
+
+克隆bilibili上某视频的【评论区】+【弹幕】
+
+
+
+先挖个坑，有时间再慢慢补简介
+
+
+
+（如果能挂github action就好了，可惜没时间搞了）
