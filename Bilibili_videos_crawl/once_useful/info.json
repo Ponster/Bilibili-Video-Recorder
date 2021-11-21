@@ -1,0 +1,123 @@
+{
+  "bvid": "BV18u411Z7t1",
+  "aid": 506013301,
+  "videos": 3,
+  "tid": 29,
+  "tname": "音乐现场",
+  "copyright": 2,
+  "pic": "http://i0.hdslb.com/bfs/archive/752795936c6692e6052ea5d2f680a706b10ad6be.png",
+  "title": "【梶浦由记2021】vol.#16 ～Sing a Song Tour～（中日字幕）",
+  "pubdate": 1634004149,
+  "ctime": 1634004149,
+  "desc": "【介绍与歌单请见评论区置顶，音画不同步已修复】\r\n欢迎加入 669435750 梶浦由记交流群第一时间获取梶浦由记相关资讯（音乐，动画，访谈，Live）！\r\n本场Live于2021/7/28举办，10/08网络公开，现回放期已过。\r\n所有内容仅供学习参考使用，如果错误可在评论区指出。\r\n\r\n字幕制作：\r\n歌词翻译、对话听译：@zhyno\r\n时间轴、字幕特效：@政井洛酱\r\n制作协力：@akuma1703",
+  "desc_v2": [
+    {
+      "raw_text": "【介绍与歌单请见评论区置顶，音画不同步已修复】\r\n欢迎加入 669435750 梶浦由记交流群第一时间获取梶浦由记相关资讯（音乐，动画，访谈，Live）！\r\n本场Live于2021/7/28举办，10/08网络公开，现回放期已过。\r\n所有内容仅供学习参考使用，如果错误可在评论区指出。\r\n\r\n字幕制作：\r\n歌词翻译、对话听译：@zhyno\r\n时间轴、字幕特效：@政井洛酱\r\n制作协力：@akuma1703",
+      "type": 1,
+      "biz_id": 0
+    }
+  ],
+  "state": 0,
+  "duration": 8959,
+  "rights": {
+    "bp": 0,
+    "elec": 0,
+    "download": 1,
+    "movie": 0,
+    "pay": 0,
+    "hd5": 0,
+    "no_reprint": 0,
+    "autoplay": 1,
+    "ugc_pay": 0,
+    "is_cooperation": 0,
+    "ugc_pay_preview": 0,
+    "no_background": 0,
+    "clean_mode": 0,
+    "is_stein_gate": 0,
+    "is_360": 0,
+    "no_share": 0
+  },
+  "owner": {
+    "mid": 2235293,
+    "name": "zhyno",
+    "face": "http://i2.hdslb.com/bfs/face/ca902b33843f2daaa7f01198a12c5b859382421c.jpg"
+  },
+  "stat": {
+    "aid": 506013301,
+    "view": 15129,
+    "danmaku": 116,
+    "reply": 110,
+    "favorite": 1929,
+    "coin": 507,
+    "share": 195,
+    "now_rank": 0,
+    "his_rank": 0,
+    "like": 804,
+    "dislike": 0,
+    "evaluation": "",
+    "argue_msg": ""
+  },
+  "dynamic": "",
+  "cid": 432230728,
+  "dimension": {
+    "width": 1920,
+    "height": 1080,
+    "rotate": 0
+  },
+  "no_cache": false,
+  "pages": [
+    {
+      "cid": 432230728,
+      "page": 1,
+      "from": "vupload",
+      "part": "版权声明",
+      "duration": 45,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i0.hdslb.com/bfs/storyff/n2110281415mqi3q4egpkd53ffpjllvy_firsti.jpg"
+    },
+    {
+      "cid": 423772440,
+      "page": 2,
+      "from": "vupload",
+      "part": "群宣",
+      "duration": 27,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i0.hdslb.com/bfs/storyff/n21101213330nap7jvvaum2debncf082_firsti.jpg"
+    },
+    {
+      "cid": 424179976,
+      "page": 3,
+      "from": "vupload",
+      "part": "■■■■■",
+      "duration": 8887,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i0.hdslb.com/bfs/storyff/n211012151r1qcwe3ambnooy91q3a4x6_firsti.jpg"
+    }
+  ],
+  "subtitle": {
+    "allow_submit": false,
+    "list": []
+  },
+  "user_garb": {
+    "url_image_ani_cut": ""
+  },
+  "honor_reply": {}
+}
